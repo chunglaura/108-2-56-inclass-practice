@@ -1,0 +1,7 @@
+"0","我的年紀""<-20"
+"0",""
+"0","My_age<-""我的年紀"""
+"2","錯誤: unexpected string constant in:
+""
+My_age<-""""
+"
