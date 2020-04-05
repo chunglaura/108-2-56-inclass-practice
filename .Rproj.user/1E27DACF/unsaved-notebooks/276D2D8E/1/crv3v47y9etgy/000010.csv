@@ -4,3 +4,5 @@
 "0","homework_sheet <- sheets_read(ss,sheet=1)"
 "2","httpuv not installed, defaulting to out-of-band authentication
 "
+"2","
+"
