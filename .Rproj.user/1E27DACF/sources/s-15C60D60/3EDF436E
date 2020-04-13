@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1740971255",
+    "hash" : "0",
     "id" : "3EDF436E",
     "lastKnownWriteTime" : 1586749641,
     "last_content_update" : 1586749641,
     "path" : "C:/Users/boyo/Desktop/0409.Rmd",
     "project_path" : null,
     "properties" : {
+        "cursorPosition" : "264,3",
+        "scrollLine" : "249"
     },
     "read_only" : false,
     "read_only_alternatives" : [
