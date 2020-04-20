@@ -1,0 +1,6 @@
+"0","tomorrow <- list("
+"0","  list(""台北市"",c(highest_temp = 25),c(lowest_temp = 18)),"
+"0","  list(""新北市"",c(highest_temp = 24),c(lowest_temp = 15)))"
+"0",""
+"0","weather <- list(today,tomorrow)"
+"0",""

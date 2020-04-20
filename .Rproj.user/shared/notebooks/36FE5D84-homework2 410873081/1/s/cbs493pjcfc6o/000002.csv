@@ -1,0 +1,4 @@
+"0","course_update$course[[""teacher""]]<-""紀學檜"""
+"2","Error in course_update$course[[""teacher""]] <- ""紀學檜"" : 
+  找不到物件 'course_update'
+"

@@ -1,0 +1,4 @@
+"0","two_times <- c(ymd_hms(taiwan_time,tz=""Asia/Taipei""),dmy_hms(oslo_time,tz=""Europe/Oslo""))"
+"2","Error in ymd_hms(taiwan_time, tz = ""Asia/Taipei"") : 
+  沒有這個函數 ""ymd_hms""
+"

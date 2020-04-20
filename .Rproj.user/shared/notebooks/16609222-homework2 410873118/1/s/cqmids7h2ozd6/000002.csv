@@ -1,0 +1,4 @@
+"0","course_update<-list(approve=T,course=list(coursename=""會計學"",type=""選"",credits=3,time_place=list(weekday=""星期三"",time_slots=c(7,8,9)"
+"0","                                                                                            ,classroom=""商2F05"")))"
+"0","course_update$course[[2]]<-""選"""
+"0","# course_update"
