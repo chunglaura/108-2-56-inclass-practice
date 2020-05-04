@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588596475979.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "763384174",
+    "id" : "B214E76A",
+    "lastKnownWriteTime" : 1588596372,
+    "last_content_update" : 1588596800333,
+    "path" : "C:/Users/boyo/Desktop/0503.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "348,36",
+        "last_setup_crc32" : "2A1071E9bb338d19",
+        "scrollLine" : "325"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

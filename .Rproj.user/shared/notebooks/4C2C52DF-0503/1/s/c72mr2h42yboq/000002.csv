@@ -1,0 +1,4 @@
+"0","fruit <- c(""apple"", ""banana"", ""pear"", ""pinapple"")"
+"0","str_detect(fruit, ""a"")"
+"2","Error in str_detect(fruit, ""a"") : 沒有這個函數 ""str_detect""
+"

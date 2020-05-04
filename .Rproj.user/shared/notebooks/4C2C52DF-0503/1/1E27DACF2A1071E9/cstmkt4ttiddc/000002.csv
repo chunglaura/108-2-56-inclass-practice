@@ -1,0 +1,4 @@
+"0","pick_pneumonia <- stringr::str_detect(CDC_chatbox$Question,""肺炎"")"
+"2","Error in stri_detect_regex(string, pattern, negate = negate, opts_regex = opts(pattern)) : 
+  找不到物件 'CDC_chatbox'
+"
