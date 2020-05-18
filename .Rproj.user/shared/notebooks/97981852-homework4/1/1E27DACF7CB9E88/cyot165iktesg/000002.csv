@@ -1,0 +1,3 @@
+"0","F<-unlist(mention_duan)"
+"0","table_duan<-table(F)"
+"0","# table_duan"
