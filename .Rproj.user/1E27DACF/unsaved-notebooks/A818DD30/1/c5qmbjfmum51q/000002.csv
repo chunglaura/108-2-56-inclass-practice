@@ -1,0 +1,4 @@
+"0","# 找出符合地點的天氣資訊：weatherAtLocation"
+"0","(weather_next36hours$cwbopendata$dataset$location$locationName == locationInput) -> pick_location # 可挑出locationInput的「要/不要」向量"
+"2","錯誤: 找不到物件 'locationInput'
+"
