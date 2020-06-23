@@ -1,0 +1,8 @@
+"0","surface_cube <- function(a,b,c){answer <- 2*(a*b+b*c+a*c) "
+"0","return(answer)}"
+"0","surface_cube(20,10,15)"
+"1","[1]"
+"1"," 1300"
+"1","
+"
+"0","# surface_cube"
