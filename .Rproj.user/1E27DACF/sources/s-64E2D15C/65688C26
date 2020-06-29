@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1593343658136.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1925072361",
+    "id" : "65688C26",
+    "lastKnownWriteTime" : 1593344578,
+    "last_content_update" : 1593344609780,
+    "path" : "C:/Users/boyo/Downloads/homework8.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "5,23",
+        "last_setup_crc32" : "64E2D15Cfc934aab",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

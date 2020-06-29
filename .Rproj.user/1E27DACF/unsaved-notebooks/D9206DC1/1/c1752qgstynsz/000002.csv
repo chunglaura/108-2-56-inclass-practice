@@ -1,0 +1,8 @@
+"0","1:4 %>%"
+"0","  map(~{"
+"0","    get_courses(academicYears[[.]], "
+"0","                allGrades[[.]], "
+"0","                courseStructure)})"
+"2","Error in get_courses(academicYears[[.]], allGrades[[.]], courseStructure) : 
+  沒有這個函數 ""get_courses""
+"
